@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🛠️ I'm a systems-focused developer currently building Zenith, a custom C++ game engine with real-time rendering, scripting, scene serialization, ImGui-based tools, and deep low-level control.<br><br>📚 Continuously learning — from multithreading and memory alignment to rendering pipelines and physics integration.<br><br>⚓ I come from a strong leadership background in NJROTC, where I got promoted to Lieutenant Junior Grade, academic team captain, and education officer after completing Leadership Academy.<br><br>🧠 I believe in mastering fundamentals, staying sharp under pressure, and always building with purpose.</p>
+<p align="left">🛠️ I'm a systems-focused developer currently building Luma, a custom C++ game engine with real-time rendering, scripting, scene serialization, ImGui-based tools, and deep low-level control.<br><br>📚 Continuously learning — from multithreading and memory alignment to rendering pipelines and physics integration.<br><br>⚓ I come from a strong leadership background in NJROTC, where I got promoted to Lieutenant Junior Grade, academic team captain, and education officer after completing Leadership Academy.<br><br>🧠 I believe in mastering fundamentals, staying sharp under pressure, and always building with purpose.</p>
 
 ###
 
